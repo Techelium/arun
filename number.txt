@@ -1,0 +1,1 @@
+num=("enter the num")
